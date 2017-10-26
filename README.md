@@ -13,3 +13,6 @@ ex: numAttacks & calaculateAttacks() & randomize
 ### HillClimbing 
 Abstract class contains the common features and behaviuor between the HillClimbers variations, & extended by the them 
 
+## Usage 
+run every HillClimber individually, and maniuplate the varibales of each climber to see the statistics beyond it 
+
